@@ -7,7 +7,7 @@ namespace Course1 {               // NOME DO PROJETO É COURSE1
         static void Main(string[] args) {   //COMANDO USADO PARA FAZER SER UMA CLASSE PRINCIPAL QUE COMPILA
 
 
-
+            Console.WriteLine("Boa Noite 25-11-2021");
 
 
 
